@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "dropzone@6.0.0-beta.2",
+      "destination": "wwwroot/lib/dropzone/"
+    }
+  ]
+}
